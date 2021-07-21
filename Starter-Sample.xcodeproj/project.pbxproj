@@ -10,38 +10,33 @@
 		C30E871F26A808F70020D4BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E871E26A808F70020D4BD /* AppDelegate.swift */; };
 		C30E872126A808F70020D4BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872026A808F70020D4BD /* SceneDelegate.swift */; };
 		C30E872326A808F70020D4BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872226A808F70020D4BD /* ViewController.swift */; };
-		C30E872626A808F70020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872426A808F70020D4BD /* Main.storyboard */; };
-		C30E872826A808F80020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E872726A808F80020D4BD /* Assets.xcassets */; };
-		C30E872B26A808F80020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872926A808F80020D4BD /* LaunchScreen.storyboard */; };
 		C30E873426A809020020D4BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872226A808F70020D4BD /* ViewController.swift */; };
 		C30E873526A809020020D4BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E871E26A808F70020D4BD /* AppDelegate.swift */; };
 		C30E873626A809020020D4BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872026A808F70020D4BD /* SceneDelegate.swift */; };
-		C30E873926A809020020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872926A808F80020D4BD /* LaunchScreen.storyboard */; };
-		C30E873A26A809020020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E872726A808F80020D4BD /* Assets.xcassets */; };
-		C30E873B26A809020020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872426A808F70020D4BD /* Main.storyboard */; };
 		C30E874326A809070020D4BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872226A808F70020D4BD /* ViewController.swift */; };
 		C30E874426A809070020D4BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E871E26A808F70020D4BD /* AppDelegate.swift */; };
 		C30E874526A809070020D4BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872026A808F70020D4BD /* SceneDelegate.swift */; };
-		C30E874826A809070020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872926A808F80020D4BD /* LaunchScreen.storyboard */; };
-		C30E874926A809070020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E872726A808F80020D4BD /* Assets.xcassets */; };
-		C30E874A26A809070020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872426A808F70020D4BD /* Main.storyboard */; };
 		C30E875226A809140020D4BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872226A808F70020D4BD /* ViewController.swift */; };
 		C30E875326A809140020D4BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E871E26A808F70020D4BD /* AppDelegate.swift */; };
 		C30E875426A809140020D4BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872026A808F70020D4BD /* SceneDelegate.swift */; };
-		C30E875726A809140020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872926A808F80020D4BD /* LaunchScreen.storyboard */; };
-		C30E875826A809140020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E872726A808F80020D4BD /* Assets.xcassets */; };
-		C30E875926A809140020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872426A808F70020D4BD /* Main.storyboard */; };
 		C30E876126A809180020D4BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872226A808F70020D4BD /* ViewController.swift */; };
 		C30E876226A809180020D4BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E871E26A808F70020D4BD /* AppDelegate.swift */; };
 		C30E876326A809180020D4BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30E872026A808F70020D4BD /* SceneDelegate.swift */; };
-		C30E876626A809180020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872926A808F80020D4BD /* LaunchScreen.storyboard */; };
-		C30E876726A809180020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E872726A808F80020D4BD /* Assets.xcassets */; };
-		C30E876826A809180020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E872426A808F70020D4BD /* Main.storyboard */; };
-		C30E876E26A80AC80020D4BD /* dev-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30E872C26A808F80020D4BD /* dev-Info.plist */; };
-		C30E877426A80BE60020D4BD /* offline-Starter-Sample.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30E877326A80BE60020D4BD /* offline-Starter-Sample.plist */; };
-		C30E877626A80BF40020D4BD /* prod-Starter-Sample.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30E877526A80BF30020D4BD /* prod-Starter-Sample.plist */; };
-		C30E877826A80C010020D4BD /* sit-Starter-Sample.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30E877726A80C010020D4BD /* sit-Starter-Sample.plist */; };
-		C30E877A26A80C0D0020D4BD /* uat-Starter-Sample.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30E877926A80C0D0020D4BD /* uat-Starter-Sample.plist */; };
+		C30E878726A812000020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E877C26A812000020D4BD /* Assets.xcassets */; };
+		C30E878826A812000020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E877C26A812000020D4BD /* Assets.xcassets */; };
+		C30E878926A812000020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E877C26A812000020D4BD /* Assets.xcassets */; };
+		C30E878A26A812000020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E877C26A812000020D4BD /* Assets.xcassets */; };
+		C30E878B26A812000020D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E877C26A812000020D4BD /* Assets.xcassets */; };
+		C30E878C26A812000020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877D26A812000020D4BD /* LaunchScreen.storyboard */; };
+		C30E878D26A812000020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877D26A812000020D4BD /* LaunchScreen.storyboard */; };
+		C30E878E26A812000020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877D26A812000020D4BD /* LaunchScreen.storyboard */; };
+		C30E878F26A812000020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877D26A812000020D4BD /* LaunchScreen.storyboard */; };
+		C30E879026A812000020D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877D26A812000020D4BD /* LaunchScreen.storyboard */; };
+		C30E879126A812000020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877F26A812000020D4BD /* Main.storyboard */; };
+		C30E879226A812000020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877F26A812000020D4BD /* Main.storyboard */; };
+		C30E879326A812000020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877F26A812000020D4BD /* Main.storyboard */; };
+		C30E879426A812000020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877F26A812000020D4BD /* Main.storyboard */; };
+		C30E879526A812000020D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E877F26A812000020D4BD /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,18 +44,18 @@
 		C30E871E26A808F70020D4BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C30E872026A808F70020D4BD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C30E872226A808F70020D4BD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C30E872526A808F70020D4BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C30E872726A808F80020D4BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C30E872A26A808F80020D4BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C30E872C26A808F80020D4BD /* dev-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "dev-Info.plist"; sourceTree = "<group>"; };
 		C30E873F26A809020020D4BD /* sit-Starter-Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sit-Starter-Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C30E874E26A809070020D4BD /* uat-Starter-Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "uat-Starter-Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C30E875D26A809140020D4BD /* prod-Starter-Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "prod-Starter-Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C30E876C26A809180020D4BD /* offline-Starter-Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "offline-Starter-Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C30E877326A80BE60020D4BD /* offline-Starter-Sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "offline-Starter-Sample.plist"; sourceTree = "<group>"; };
-		C30E877526A80BF30020D4BD /* prod-Starter-Sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "prod-Starter-Sample.plist"; sourceTree = "<group>"; };
-		C30E877726A80C010020D4BD /* sit-Starter-Sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "sit-Starter-Sample.plist"; sourceTree = "<group>"; };
-		C30E877926A80C0D0020D4BD /* uat-Starter-Sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "uat-Starter-Sample.plist"; sourceTree = "<group>"; };
+		C30E877C26A812000020D4BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C30E877E26A812000020D4BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C30E878026A812000020D4BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C30E878226A812000020D4BD /* uat-Starter-Sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "uat-Starter-Sample.plist"; sourceTree = "<group>"; };
+		C30E878326A812000020D4BD /* sit-Starter-Sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "sit-Starter-Sample.plist"; sourceTree = "<group>"; };
+		C30E878426A812000020D4BD /* prod-Starter-Sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "prod-Starter-Sample.plist"; sourceTree = "<group>"; };
+		C30E878526A812000020D4BD /* dev-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "dev-Info.plist"; sourceTree = "<group>"; };
+		C30E878626A812000020D4BD /* offline-Starter-Sample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "offline-Starter-Sample.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,19 +120,35 @@
 		C30E871D26A808F70020D4BD /* Starter-Sample */ = {
 			isa = PBXGroup;
 			children = (
+				C30E877B26A812000020D4BD /* Common Resources */,
 				C30E871E26A808F70020D4BD /* AppDelegate.swift */,
 				C30E872026A808F70020D4BD /* SceneDelegate.swift */,
 				C30E872226A808F70020D4BD /* ViewController.swift */,
-				C30E872426A808F70020D4BD /* Main.storyboard */,
-				C30E872726A808F80020D4BD /* Assets.xcassets */,
-				C30E872926A808F80020D4BD /* LaunchScreen.storyboard */,
-				C30E872C26A808F80020D4BD /* dev-Info.plist */,
-				C30E877326A80BE60020D4BD /* offline-Starter-Sample.plist */,
-				C30E877526A80BF30020D4BD /* prod-Starter-Sample.plist */,
-				C30E877726A80C010020D4BD /* sit-Starter-Sample.plist */,
-				C30E877926A80C0D0020D4BD /* uat-Starter-Sample.plist */,
 			);
 			path = "Starter-Sample";
+			sourceTree = "<group>";
+		};
+		C30E877B26A812000020D4BD /* Common Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C30E877C26A812000020D4BD /* Assets.xcassets */,
+				C30E877D26A812000020D4BD /* LaunchScreen.storyboard */,
+				C30E877F26A812000020D4BD /* Main.storyboard */,
+				C30E878126A812000020D4BD /* App-Plist */,
+			);
+			path = "Common Resources";
+			sourceTree = "<group>";
+		};
+		C30E878126A812000020D4BD /* App-Plist */ = {
+			isa = PBXGroup;
+			children = (
+				C30E878226A812000020D4BD /* uat-Starter-Sample.plist */,
+				C30E878326A812000020D4BD /* sit-Starter-Sample.plist */,
+				C30E878426A812000020D4BD /* prod-Starter-Sample.plist */,
+				C30E878526A812000020D4BD /* dev-Info.plist */,
+				C30E878626A812000020D4BD /* offline-Starter-Sample.plist */,
+			);
+			path = "App-Plist";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -269,10 +280,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C30E876E26A80AC80020D4BD /* dev-Info.plist in Resources */,
-				C30E872B26A808F80020D4BD /* LaunchScreen.storyboard in Resources */,
-				C30E872826A808F80020D4BD /* Assets.xcassets in Resources */,
-				C30E872626A808F70020D4BD /* Main.storyboard in Resources */,
+				C30E879126A812000020D4BD /* Main.storyboard in Resources */,
+				C30E878726A812000020D4BD /* Assets.xcassets in Resources */,
+				C30E878C26A812000020D4BD /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,10 +290,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C30E873926A809020020D4BD /* LaunchScreen.storyboard in Resources */,
-				C30E873A26A809020020D4BD /* Assets.xcassets in Resources */,
-				C30E873B26A809020020D4BD /* Main.storyboard in Resources */,
-				C30E877826A80C010020D4BD /* sit-Starter-Sample.plist in Resources */,
+				C30E879226A812000020D4BD /* Main.storyboard in Resources */,
+				C30E878826A812000020D4BD /* Assets.xcassets in Resources */,
+				C30E878D26A812000020D4BD /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,10 +300,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C30E874826A809070020D4BD /* LaunchScreen.storyboard in Resources */,
-				C30E877A26A80C0D0020D4BD /* uat-Starter-Sample.plist in Resources */,
-				C30E874926A809070020D4BD /* Assets.xcassets in Resources */,
-				C30E874A26A809070020D4BD /* Main.storyboard in Resources */,
+				C30E879326A812000020D4BD /* Main.storyboard in Resources */,
+				C30E878926A812000020D4BD /* Assets.xcassets in Resources */,
+				C30E878E26A812000020D4BD /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,10 +310,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C30E875726A809140020D4BD /* LaunchScreen.storyboard in Resources */,
-				C30E877626A80BF40020D4BD /* prod-Starter-Sample.plist in Resources */,
-				C30E875826A809140020D4BD /* Assets.xcassets in Resources */,
-				C30E875926A809140020D4BD /* Main.storyboard in Resources */,
+				C30E879426A812000020D4BD /* Main.storyboard in Resources */,
+				C30E878A26A812000020D4BD /* Assets.xcassets in Resources */,
+				C30E878F26A812000020D4BD /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,10 +320,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C30E876626A809180020D4BD /* LaunchScreen.storyboard in Resources */,
-				C30E876726A809180020D4BD /* Assets.xcassets in Resources */,
-				C30E877426A80BE60020D4BD /* offline-Starter-Sample.plist in Resources */,
-				C30E876826A809180020D4BD /* Main.storyboard in Resources */,
+				C30E879526A812000020D4BD /* Main.storyboard in Resources */,
+				C30E878B26A812000020D4BD /* Assets.xcassets in Resources */,
+				C30E879026A812000020D4BD /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,20 +382,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C30E872426A808F70020D4BD /* Main.storyboard */ = {
+		C30E877D26A812000020D4BD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C30E872526A808F70020D4BD /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		C30E872926A808F80020D4BD /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C30E872A26A808F80020D4BD /* Base */,
+				C30E877E26A812000020D4BD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		C30E877F26A812000020D4BD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C30E878026A812000020D4BD /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -518,7 +524,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/dev-Info.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/dev-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -537,7 +543,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/dev-Info.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/dev-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -556,7 +562,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/sit-Starter-Sample.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/sit-Starter-Sample.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -575,7 +581,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/sit-Starter-Sample.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/sit-Starter-Sample.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -594,7 +600,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/uat-Starter-Sample.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/uat-Starter-Sample.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -613,7 +619,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/uat-Starter-Sample.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/uat-Starter-Sample.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -632,7 +638,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/prod-Starter-Sample.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/prod-Starter-Sample.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -651,7 +657,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/prod-Starter-Sample.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/prod-Starter-Sample.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -670,7 +676,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/offline-Starter-Sample.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/offline-Starter-Sample.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -689,7 +695,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5TWWN7UL86;
-				INFOPLIST_FILE = "Starter-Sample/offline-Starter-Sample.plist";
+				INFOPLIST_FILE = "Starter-Sample/Common Resources/App-Plist/offline-Starter-Sample.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
